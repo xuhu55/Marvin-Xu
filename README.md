@@ -1,31 +1,26 @@
 ## About Me
-I'm currently a sophomore at the University of Maryland-College Park majoring in Computer Science with a specialization in Data Science
+I really enjoy coding outside of class and building my own projects. I like discussing finance and economics in my free time. My favorite sports include swimming, ping-pong, and volleyball.
 
 
-### Projects
+### Education
+University of Maryland-College Park
+* Major Computer Science-Data Science
+* Minor Statistics
+* Deans List Spring,Fall 2017
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### Work Experience
 
 ```markdown
-Syntax highlighted code block
+#Projects
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+* Blackjack
+* ClearCellGame
+* Calculator
+* Orders Processor
 ```
 
 ### My contact information
 
-[email](marvinxu1998@gmail.com)
+email: marvinxu1998@gmail.com
 [facebook](https://www.facebook.com/marvin.xu.73)
 [linkedin](https://www.linkedin.com/in/marvin-xu-437556155/)
