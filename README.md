@@ -1,10 +1,8 @@
-## Welcome to My Website
-[link test](https://www.google.com/search?q=create+program+with+java+github&rlz=1C1GCEA_enUS781US781&oq=create+program+with+java+github&aqs=chrome..69i57.14846j0j9&sourceid=chrome&ie=UTF-8)
-You can use the [editor on GitHub](https://github.com/xuhu55/Marvin-Xu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
+I'm currently a sophomore at the University of Maryland-College Park majoring in Computer Science with a specialization in Data Science
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -26,12 +24,8 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### My contact information
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xuhu55/Marvin-Xu/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[email](marvinxu1998@gmail.com)
+[facebook](https://www.facebook.com/marvin.xu.73)
+[linkedin](https://www.linkedin.com/in/marvin-xu-437556155/)
