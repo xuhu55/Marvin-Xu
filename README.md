@@ -11,11 +11,17 @@ University of Maryland-College Park
 
 ## Work Experience
 CSRA
+* IT Intern
 * Setup phones for federal investigators
 * Create excel files for organizing phone numbers with SID codes
 * Use plateau to create chart of investigator locations and their levels.
+
 Prince George's Department of Social Services
-*
+* Data Specialist Intern 
+* Coded a Google Script Program to automatically schedule Court hearing events from google form to both google sheets and google Calendar
+* Utilized advanced Excel formulas to analyze results from child care worker visits to determine  if visits resulted in improvements in domestic safety
+* Aggregated and manipulated large datasets in Excel to analyze child abuse trends throughout a fiscal year
+
 
 ## Projects
 
