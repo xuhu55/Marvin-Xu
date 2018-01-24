@@ -2,16 +2,20 @@
 I really enjoy coding outside of class and building my own projects. I like discussing finance and economics in my free time. My favorite sports include swimming, ping-pong, and volleyball.
 
 
-### Education
+## Education
 University of Maryland-College Park
 * Major Computer Science-Data Science
 * Minor Statistics
+* GPA 3.594
 * Deans List Spring,Fall 2017
 
-#### Work Experience
+## Work Experience
 CSRA
-* Setup 
-* 
+* Setup phones for federal investigators
+* Create excel files for organizing phone numbers with SID codes
+* Use plateau to create chart of investigator locations and their levels.
+Prince George's Department of Social Services
+*
 
 ## Projects
 
