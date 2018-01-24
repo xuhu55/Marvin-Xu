@@ -23,7 +23,7 @@ CSRA
 
 ### My contact information
 
-email: marvinxu1998@gmail.com <br>
+[email](mailto:marvinxu1998@gmail.com) <br>
 [facebook](https://www.facebook.com/marvin.xu.73)
 [linkedin](https://www.linkedin.com/in/marvin-xu-437556155/)
 [github](https://github.com/xuhu55)
