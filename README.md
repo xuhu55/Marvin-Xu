@@ -9,19 +9,21 @@ University of Maryland-College Park
 * Deans List Spring,Fall 2017
 
 #### Work Experience
+CSRA
+* Setup 
+* 
 
-```markdown
-#Projects
+## Projects
 
 * Blackjack
 * ClearCellGame
 * Calculator
 * Orders Processor
-```
+
 
 ### My contact information
 
-email: marvinxu1998@gmail.com
+email: marvinxu1998@gmail.com <br>
 [facebook](https://www.facebook.com/marvin.xu.73)
 [linkedin](https://www.linkedin.com/in/marvin-xu-437556155/)
 [github](https://github.com/xuhu55)
